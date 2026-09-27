@@ -1,7 +1,6 @@
 aid: basemarkltd
 name: Basemarkltd
-description: 'Basemarkltd is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Basemark Ltd develops augmented reality (AR) and human‑machine interface (HMI) platforms for mission‑critical environments. The company provides software tools such as Rocksolid, Rocksolid Studio, and BATS to enable real‑time data visualization and situational awareness in automotive, defense, and AR glasses applications. Their solutions focus on reliability, performance, and safety in demanding conditions, serving customers in automotive, defense, and industrial sectors.'
 url: https://raw.githubusercontent.com/api-evangelist/basemarkltd/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
